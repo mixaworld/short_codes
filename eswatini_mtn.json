@@ -1,0 +1,6 @@
+[
+    {"name":"CallBack", "code":"*121*", "advert":"yes"},
+    {"name":"Wow Data 15MB @ E10", "code":"*686*1", "advert":"no"},
+    {"name":"Check Balance", "code":"*556", "advert":"yes"},
+    {"name":"Send Airtime", "code":"*141*", "advert":"yes"}
+]
