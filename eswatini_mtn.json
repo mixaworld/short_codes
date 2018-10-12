@@ -1,6 +1,6 @@
 [
-    {"name":"CallBack", "code":"*121*", "advert":"yes"},
-    {"name":"Wow Data 15MB @ E10", "code":"*686*1", "advert":"no"},
-    {"name":"Check Balance", "code":"*556", "advert":"yes"},
-    {"name":"Send Airtime", "code":"*141*", "advert":"yes"}
+    {"name":"CallBack", "code":"*121*", "advert":"yes", "logo":"https://i2.wp.com/flash.co.za/wp-content/uploads/2017/05/MTN-Logo.png"},
+    {"name":"Wow Data 15MB @ E10", "code":"*686*1", "advert":"no", "logo":"https://i2.wp.com/flash.co.za/wp-content/uploads/2017/05/MTN-Logo.png"},
+    {"name":"Check Balance", "code":"*556", "advert":"yes", "logo":"https://i2.wp.com/flash.co.za/wp-content/uploads/2017/05/MTN-Logo.png"},
+    {"name":"Send Airtime", "code":"*141*", "advert":"yes", "logo":"https://i2.wp.com/flash.co.za/wp-content/uploads/2017/05/MTN-Logo.png"}
 ]
